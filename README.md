@@ -127,8 +127,8 @@ Each student's best attempt per exam is used. Ties are broken by the shorter tim
 ## Author
 
 **Mohammad Shayan Ansari**
-GitHub: [@your-username](https://github.com/your-username)
+
 
 ## License
 
-This project is for educational purposes. Add a license of your choice (for example MIT) before publishing.
+This project is for educational purposes. 
