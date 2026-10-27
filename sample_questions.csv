@@ -1,0 +1,4 @@
+category,question,option_a,option_b,option_c,option_d,correct,difficulty,marks
+Computer Basics,Which of these is an input device?,Monitor,Keyboard,Printer,Speaker,B,easy,1
+Computer Basics,What does CPU stand for?,Central Process Unit,Central Processing Unit,Computer Personal Unit,Control Processing Unit,B,easy,1
+Computer Basics,Which memory is volatile?,ROM,RAM,Hard disk,SSD,B,medium,1
